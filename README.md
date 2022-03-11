@@ -1,11 +1,15 @@
 ### Bom dia, Boa Tarde ou Boa Noite.
 Fiz esse projeto da Imersão Alura '1/10' são 10 dias de Imersão Alura. nesse projeto utilizei HTML, CSS e JS para calcular as Notas de todos os bimestres espero que gostem!
 
+
+  ![calculador de media escolar](https://user-images.githubusercontent.com/93554726/157950898-d35f935e-e450-4f2e-9c6a-d6c5c7424012.gif)
+  
+  Para mais informações : https://willissz.github.io/Calculador-de-media-escolar/
+
   ##
   
  <div style="display: inline_block" align="start"><br>
   <img align="center" alt="isma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="isma-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="isma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="isma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
 </div>
