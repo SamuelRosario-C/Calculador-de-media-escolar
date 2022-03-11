@@ -1,7 +1,6 @@
 ### Bom dia, Boa Tarde ou Boa Noite.
 Fiz esse projeto da Imersão Alura '1/10' são 10 dias de Imersão Alura. nesse projeto utilizei HTML, CSS e JS para calcular as Notas de todos os bimestres espero que gostem!
 
-  
   ##
   
  <div style="display: inline_block" align="start"><br>
